@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544110839 source:/home/bm7/Codeblocks/Tri_bulle/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
