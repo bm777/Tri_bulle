@@ -12,4 +12,4 @@ Le tri à bulles est souvent enseigné en tant qu'exemple algorithmique, car son
 # Résultat
 ![Alt text](img/2.png?raw=true "Resultat")
 
-# Auteur : Bayangmbe Mounmo alias (bm7)
+# Auteur : Bayangmbe Mounmo (bm7)
